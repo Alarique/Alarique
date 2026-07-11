@@ -178,7 +178,11 @@ Ubuntu Server • Apache • Nginx • PHP • MySQL • Oracle • Composer •
 
 # Filosofia de trabalho
 
-## Acredito que um bom software nasce da compreensão do negócio. Antes de escrever código, procuro entender as pessoas, os processos e os problemas que a aplicação precisa resolver.
+> Desenvolver software vai além de escrever código.
+>
+> Acredito que as melhores soluções surgem quando compreendemos o negócio, as pessoas e os processos antes de pensar na implementação.
+>
+> Meu objetivo é criar soluções sustentáveis, fáceis de evoluir e que realmente agreguem valor ao cliente.
 
 ---
 
