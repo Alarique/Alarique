@@ -7,39 +7,71 @@
 </p>
 
 <p align="center">
-  <strong>Desenvolvedor de Software focado em sistemas PHP e código legado.</strong><br>
-  Transformo regras de negócio em soluções técnicas, do primeiro requisito ao deploy em produção.
+  <strong>Software Developer especializado em PHP, sistemas legados e regras de negócio.</strong><br>
+  Evoluindo aplicações críticas desde o PHP 5.2 até o PHP 8.3, transformando sistemas complexos em soluções sustentáveis.
 </p>
 
 ---
 
 # Sobre mim
 
-Ao longo da minha carreira descobri que meu maior diferencial não é apenas escrever código.
+Sou Desenvolvedor de Software especializado na manutenção, evolução e modernização de sistemas legados escritos em PHP.
 
-Gosto de entender como o negócio funciona.
+Tenho experiência trabalhando desde aplicações em PHP 5.2 até projetos atuais em PHP 8.3, tanto utilizando programação procedural quanto orientação a objetos.
 
-Consigo sentar com o cliente, levantar requisitos, realizar o refinamento técnico, compreender regras de negócio escondidas em sistemas antigos e transformar tudo isso em soluções organizadas e sustentáveis.
+Gosto exatamente do tipo de sistema que normalmente ninguém quer assumir: aplicações sem documentação, com regras de negócio espalhadas pelo código e anos de manutenção acumulada.
 
-Tenho facilidade em assumir aplicações sem documentação, investigar problemas complexos e evoluir sistemas críticos sem interromper a operação.
+Meu trabalho é compreender o negócio, identificar regras implícitas no sistema, conversar com o cliente e evoluir aplicações críticas sem interromper sua operação.
 
 ---
 
 # Especialidades
 
-- Engenharia reversa de sistemas legados
-- PHP Procedural e Orientado a Objetos
-- Evolução e manutenção de aplicações
+### Desenvolvimento de Software
+
+- Desenvolvimento PHP (Procedural e Orientado a Objetos)
+- Evolução e manutenção de sistemas legados
+- Engenharia reversa de regras de negócio
 - Refatoração de código
+- Desenvolvimento evolutivo
+- Arquitetura evolutiva
+
+### Engenharia de Software
+
 - Levantamento de requisitos
-- Refinamento Técnico
-- Histórias de Usuário
-- Modelagem de Banco de Dados
+- Refinamento técnico
+- Histórias de usuário
+- Integração entre sistemas
+
+### Banco de Dados
+
+- Modelagem de banco de dados
 - SQL avançado
-- Oracle
 - MySQL
+- Oracle Database
+- Análise de dados
+- Otimização de consultas
+- Indexação
+- Administração de usuários
+- Análise de performance
+- Evolução de estruturas (tabelas, colunas e constraints)
+
+### Infraestrutura
+
 - Linux / Ubuntu Server
-- Deploy e administração de servidores
+- Apache
+- Nginx
+- PM2
+- Deploy e publicação de aplicações
+
+### Ferramentas
+
+- Git
+- GitHub
+- Composer
+- Jenkins
+- VS Code
+- Apache NetBeans
 
 ---
 
@@ -71,7 +103,7 @@ Tenho facilidade em assumir aplicações sem documentação, investigar problema
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Alarique&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Alarique&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alarique&layout=compact&theme=tokyonight&hide_border=true"/>
 
@@ -94,23 +126,44 @@ Tenho facilidade em assumir aplicações sem documentação, investigar problema
 # O que gosto de fazer
 
 ```text
-✔ Modernizar sistemas antigos
+✔ Assumir sistemas sem documentação
 
-✔ Corrigir bugs complexos
+✔ Descobrir regras de negócio escondidas
 
 ✔ Refatorar código legado
 
-✔ Melhorar consultas SQL
+✔ Evoluir aplicações críticas
 
-✔ Criar novas funcionalidades
+✔ Resolver bugs complexos
+
+✔ Melhorar consultas SQL
 
 ✔ Automatizar processos
 
-✔ Entender regras de negócio
+✔ Desenvolver novas funcionalidades
 
-✔ Resolver problemas que ninguém quer pegar
+✔ Conversar com clientes e transformar necessidades em software
+
+✔ Fazer sistemas antigos voltarem a ser sustentáveis
 ```
+---
+# Ambiente de trabalho
 
+Ubuntu Server • Apache • Nginx • PHP • MySQL • Oracle • Composer • PM2 • Jenkins • Git • GitHub • VS Code • Apache NetBeans
+
+---
+
+# Meu foco
+
+- Sistemas legados em PHP
+- Regras de negócio complexas
+- Engenharia reversa
+- Evolução contínua de aplicações
+- Manutenção corretiva e evolutiva
+- Performance de banco de dados
+- Soluções orientadas ao negócio
+- Modernização gradual de sistemas
+  
 ---
 
 # Atualmente
@@ -118,7 +171,18 @@ Tenho facilidade em assumir aplicações sem documentação, investigar problema
 - Evoluindo sistemas PHP legados
 - Desenvolvendo novas funcionalidades
 - Melhorando arquitetura de aplicações existentes
+- Melhorando performance de consultas SQL
 - Estudando boas práticas para modernização de sistemas
+
+---
+
+# Filosofia de trabalho
+
+## Acredito que um bom software nasce da compreensão do negócio. Antes de escrever código, procuro entender as pessoas, os processos e os problemas que a aplicação precisa resolver.
+
+---
+
+> 💡 **Especialista em sistemas legados, daqueles que não possuem documentação, acumulam anos de regras de negócio e parecem impossíveis de manter. É justamente esse tipo de desafio que mais gosto de resolver.**
 
 ---
 
@@ -134,7 +198,7 @@ Tenho facilidade em assumir aplicações sem documentação, investigar problema
 <img src="https://img.shields.io/badge/GitHub-0B1120?style=for-the-badge&logo=github&logoColor=60A5FA"/>
 </a>
 
-<a href="https://www.linkedin.com/in/SEU_LINKEDIN">
+<a href="https://www.linkedin.com/in/alarique">
 <img src="https://img.shields.io/badge/LinkedIn-0B1120?style=for-the-badge&logo=linkedin&logoColor=60A5FA"/>
 </a>
 
