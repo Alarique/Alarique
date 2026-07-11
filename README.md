@@ -99,7 +99,36 @@ Meu trabalho é compreender o negócio, identificar regras implícitas no sistem
 
 ---
 
+# Ambiente de trabalho
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=linux,nginx,apache,git,github,vscode&theme=dark"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/PHP-0B1120?style=for-the-badge&logo=php&logoColor=60A5FA"/>
+
+<img src="https://img.shields.io/badge/MySQL-0B1120?style=for-the-badge&logo=mysql&logoColor=60A5FA"/>
+
+<img src="https://img.shields.io/badge/Oracle-0B1120?style=for-the-badge&logo=oracle&logoColor=60A5FA"/>
+
+<img src="https://img.shields.io/badge/Composer-0B1120?style=for-the-badge&logo=composer&logoColor=60A5FA"/>
+
+<img src="https://img.shields.io/badge/Jenkins-0B1120?style=for-the-badge&logo=jenkins&logoColor=60A5FA"/>
+
+<img src="https://img.shields.io/badge/PM2-0B1120?style=for-the-badge&logo=pm2&logoColor=60A5FA"/>
+
+<img src="https://img.shields.io/badge/Apache%20NetBeans-0B1120?style=for-the-badge&logo=apachenetbeanside&logoColor=60A5FA"/>
+
+</p>
+
+---
+
 # GitHub Analytics
+
 
 <p align="center">
 
@@ -146,10 +175,6 @@ Meu trabalho é compreender o negócio, identificar regras implícitas no sistem
 
 ✔ Fazer sistemas antigos voltarem a ser sustentáveis
 ```
----
-# Ambiente de trabalho
-
-Ubuntu Server • Apache • Nginx • PHP • MySQL • Oracle • Composer • PM2 • Jenkins • Git • GitHub • VS Code • Apache NetBeans
 
 ---
 
